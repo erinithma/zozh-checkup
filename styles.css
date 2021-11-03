@@ -113,6 +113,14 @@ hr {
     justify-content: center;
 }
 
+.social a:hover {
+    background: #E3000B;
+}
+
+.social a:hover path {
+    fill: #ffffff;
+}
+
 .big-button {
     font-family: Montserrat;
     text-align: center;
@@ -213,6 +221,7 @@ hr {
 
 .item__button:hover{
     background-color: #Fe101b;
+    color: white;
 }
 
 .item--text .item__img {
